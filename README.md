@@ -1,4 +1,4 @@
-# theluckystrike · GitHub · OSS must win
+# theluckystrike · GitHub · Open source must win
 
 Kernels for the [Muse Spark Open Kernel Challenge](https://openkernelchallenge.dev) (Meta × Paradigm × Andromeda, Oct 22 – Nov 19, 2026): faster decode on NVIDIA H200 for an open 256-expert, 4-bit MoE model, served by SGLang.
 
